@@ -25,15 +25,5 @@ export class AuthService {
     })
   }
 
-  // isLogged() {
-  //   this.AFauth.authState.pipe(map(auth => {
-  //     if (isNullOrUndefined(auth)) {
-  //       return false;
-  //     }
-  //     else {
-  //       return true;
-  //     }
-  //   }));
-  // }
-
+ 
 }
